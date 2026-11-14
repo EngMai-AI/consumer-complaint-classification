@@ -1,11 +1,12 @@
 tensorflow
-transformers
 torch
+transformers
+accelerate
+gradio
+nltk
 scikit-learn
 pandas
 numpy
 matplotlib
 seaborn
-nltk
-gradio
 kagglehub
